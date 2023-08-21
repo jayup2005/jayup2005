@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently learning Data structures and algorithm in c++ launguage.
 
 - 🌱 I’m currently learning **Javascript**
 
